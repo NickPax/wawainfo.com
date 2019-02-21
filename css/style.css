@@ -2540,6 +2540,9 @@ body {
     width: 77%;
 }
 }
-
+.mystyling{
+    line-height: 40px;
+    font-family:inherit;
+}
 
 /*# sourceMappingURL=maps/style.css.map */
