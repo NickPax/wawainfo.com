@@ -2480,6 +2480,12 @@ body {
 .mysamsung {
   padding-left: 50px;
 }
+.sam {
+    width: 60%;
+}
+.sam2 {
+    width: 57%;
+}
 
 .nickright {
   padding-right: 50px;
@@ -2498,6 +2504,13 @@ body {
   .nickright {
     padding-right: 0px;
   }
+    
+    .sam {
+    width: 80%;
+}
+.sam2 {
+    width: 77%;
+}
 }
 
 @media only screen and (max-width: 480px) {
@@ -2515,6 +2528,12 @@ body {
   .nickright {
     padding-right: 0px;
   }
+    .sam {
+    width: 80%;
+}
+.sam2 {
+    width: 77%;
+}
 }
 
 /*# sourceMappingURL=maps/style.css.map */
