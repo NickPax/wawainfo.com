@@ -2505,12 +2505,13 @@ body {
     padding-right: 0px;
   }
     
-    .sam {
+  .sam {
     width: 80%;
-}
-.sam2 {
+    margin-top: 30px;
+  }
+  .sam2 {
     width: 77%;
-}
+  }
 }
 
 @media only screen and (max-width: 480px) {
