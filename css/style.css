@@ -2438,6 +2438,8 @@ a:hover {
 
 /* responsive grid css follows */
 /*  SECTIONS  */
+
+
 .section {
   clear: both;
   padding: 0px;
@@ -2518,7 +2520,9 @@ body {
   .span_2_of_2,
   .span_1_of_2 {
     width: 100%;
+      
   }
+    
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
@@ -2536,5 +2540,6 @@ body {
     width: 77%;
 }
 }
+
 
 /*# sourceMappingURL=maps/style.css.map */
